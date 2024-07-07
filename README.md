@@ -58,5 +58,5 @@ clickButton();
 Keep in mind that in the parameter `setTimeout(clickButton, getRandomInterval(8, 13));` you can change the transaction timing.
 However, it's recommended not to set it to less than 8 seconds to ensure the transactions go through. You can adjust this range as you prefer, for example: `(10, 20)`.
 
-## [Telegram](https://t.me/xOneiros) | [Twitter](https://x.com0xOneiros)
+## [Telegram](https://t.me/xOneiros) | [Twitter](https://x.com/0xOneiros)
 
