@@ -1,4 +1,20 @@
-# auto Increment Counter for fuel node
+<div align="center">
+    <h1>auto Increment Counter for fuel node</h1>
+</div>
+
+<div align="center">
+    <p>
+        <a href="README-fa.md">
+            <small>فارسی</small>
+            <img src='assets/ir.svg' alt='persian' style='width: 20px;height: 15px;border-radius: 3px;' />
+        </a>
+        | 
+       <img src='assets/gb.svg' alt='English' style='width: 20px;height: 15px;border-radius: 3px;' />
+        <small>English</small>
+    </p>
+</div>
+
+
 ![image](https://github.com/xONEIROS/auto-Increment-Counter-for-fuel-node/assets/174752031/ec41adf6-335e-4acd-b745-c90c4fd4c70a)
 
 With this code, you can easily increase your Fuel node transactions. Just run this code in your browser's console, and it will automatically handle transactions as long as the console and your dapp window are open.
